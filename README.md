@@ -89,17 +89,11 @@ requirements.txt
 
 ## Run
 
-From the repository root:
+From the repository root, install the requirements and run the analysis:
 
-```powershell
+```bash
+pip install -r requirements.txt
 python src/hedd_analysis.py
-```
-
-If using the bundled Codex Python on this machine:
-
-```powershell
-& 'C:\Users\afons\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe' src\hedd_analysis.py
-```
 
 To regenerate the notebook skeleton:
 
