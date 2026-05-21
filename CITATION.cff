@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Horizon Entropic Dark Energy Diagnostic (HEDD)"
+message: "If you use this prototype diagnostic, please cite this repository."
+type: software
+authors:
+  - family-names: "Sal Jorge"
+    given-names: "Afonso Brardo Buinheira"
+abstract: "A proof-of-concept computational diagnostic for testing whether the dark component reconstructed from cosmic expansion is compatible with horizon-entropy equilibrium."
+keywords:
+  - dark energy
+  - cosmology
+  - horizon entropy
+  - Hubble parameter
+  - growth of structure
+license: MIT
+version: 0.1.0
+date-released: 2026-05-21

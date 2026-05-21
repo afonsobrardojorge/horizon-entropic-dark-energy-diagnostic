@@ -1,0 +1,21 @@
+survey,z,fsigma8,sigma_fsigma8,reference,tracer
+SnIa+IRAS,0.020,0.398,0.065,Turnbull et al. (2012),SNIa + galaxies
+6dFGS voids,0.025,0.390,0.110,Hamaus et al. (2017),Voids
+6dFGS,0.067,0.423,0.055,Beutler et al. (2012),Galaxies
+SDSS-veloc,0.100,0.370,0.130,Feix et al. (2015),DR7 galaxies
+SDSS-IV MGS,0.150,0.530,0.160,Alam et al. (2021),eBOSS DR16 MGS
+BOSS-LOWZ,0.320,0.384,0.095,Chuang et al. (2016),DR10/DR11
+SDSS-IV galaxies,0.380,0.497,0.045,Alam et al. (2021),eBOSS DR16 galaxies
+WiggleZ,0.440,0.413,0.080,Blake et al. (2012),Bright emission-line galaxies
+CMASS-BOSS,0.570,0.453,0.022,Nadathur et al. (2019),DR12 voids + galaxies
+SDSS-CMASS,0.590,0.488,0.060,Chuang et al. (2017),DR12
+SDSS-IV LRG,0.700,0.473,0.041,Alam et al. (2021),eBOSS DR16 LRG
+WiggleZ,0.730,0.437,0.072,Blake et al. (2012),Bright emission-line galaxies
+SDSS-IV voids,0.740,0.500,0.110,Aubert et al. (2022),eBOSS DR16 voids
+VIPERS v7,0.760,0.440,0.040,Pezzotta et al. (2017),Galaxies
+SDSS-IV voids,0.850,0.520,0.100,Aubert et al. (2022),eBOSS DR16 voids
+SDSS-IV quasars,0.978,0.379,0.176,Zarrouk et al. (2018),eBOSS DR14 quasars
+VIPERS v7,1.050,0.280,0.080,Pezzotta et al. (2017),Galaxies
+FastSound,1.400,0.482,0.116,Okumura et al. (2016),ELG
+SDSS-IV voids,1.480,0.300,0.130,Aubert et al. (2022),eBOSS DR16 voids
+SDSS-IV quasars,1.944,0.364,0.106,Zarrouk et al. (2018),eBOSS DR14 quasars
